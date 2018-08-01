@@ -1,0 +1,3 @@
+email=example@example.com
+password=examplePass
+website=https://www.examplewebsite.com
